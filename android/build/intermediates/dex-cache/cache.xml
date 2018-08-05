@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\id.zelory\compressor\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3a724d5d031884220bae4a255f6d2763cd0ebdc4">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\id.zelory-compressor-1.0.4_47dcf986876c9c588c9a6f6a8403ea66d5e16523.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\jsr305-3.0.0_a971f67c50848f35eab062a5cec0856f32aa537b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\DvaStarter\react-native-update\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cb215e5aed8bec97345114788a5dd837caaeee74">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\DvaStarter-react-native-update-unspecified_e218f1bf1a549bece96ffa9fbedad98457d2f329.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\DvaStarter\react-native-jpush\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c904415ec02b0574afab909749b0699d4e06d199">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\DvaStarter-react-native-jpush-unspecified_f0d779a59b9bfcf85d10e70350003ba4acd9b24d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.0_31e0fc1e9c2f4194231f9f1a64181ad2f7b44d1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-drawee-1.0.1_3f4d223d08d719a491e93852968f06fe01744726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.4.0_b3527b280a0a572167880cca48752931677a10f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.0_8639c5bf2e4f88f1e9e36d5797ac44e9941beb17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_eb2ca5222057d4ac4e8749935dd915098c25556d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_6781bb686e291c14fc457b544b582cec48f8d975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\okhttp-ws-3.4.1_fe83462a5d206d9870f1dd3ec3f8349b06d7cb1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_801c0e504437511673dce71b380ece5e1de840bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.0_339e515efedfbe9d5537cdfd8bb611a9412887bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-gif\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="131115ec18ae3951c1584c543de8baa9ac20012a">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-animated-gif-1.0.1_8d0f37b13741f4f90c5a19107048c4481320d336.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.0_cba7509b21f34467c559475baf38ae4d5a61a78e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_ad894fef7ec3a17dc1eac3e0dc0e9122899a3487.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.0_310977cfd81ecccb5c8cdaeffdcf881257fa6d20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\DvaStarter\react-native-jpush\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c904415ec02b0574afab909749b0699d4e06d199">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\DvaStarter-react-native-jpush-unspecified_ff540e9bcc83d5e5c648c2db9e216668dad7f5c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\javax.inject-1_273da2ba53aedc2691b5c6c4485ebe7b12b6e634.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.soloader-soloader-0.1.0_a4cb2228ca166063d9b8e980b9ab35e12dd53049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.0_b24f0f9ee3997113ba4182b1121d5a53530ada1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\id.zelory\compressor\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3a724d5d031884220bae4a255f6d2763cd0ebdc4">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\id.zelory-compressor-1.0.4_884c5f3caebe9e45e216767cecb0aa06136279b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.0_4868f56db81a96468202cc3475a60138cc7aa49d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.43.3\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\infer-annotations-1.5_9d20ae482fcc9c1630e0dbdb48b21b03a892ad24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.0_56fa16fa242f86abe352eb4b14674a7bcc1a807f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.0_92376e57f5c037b2434871a86ff70687bc4cbbe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_c0d37eacb3c224c77bf44d197b5ec681bd20668e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\DvaStarter\react-native-splash-screen\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="42a9c4bbafd1cb478e1a8f540fc3609c83745df8">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\DvaStarter-react-native-splash-screen-unspecified_97984356cb48a3cf44ab18cc077ed588a3e36756.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.0_cc16a7effde43512e538e6b37f0185bfcffe18e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\DvaStarter\react-native-jpush\unspecified\jars\libs\jpush-android-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7c62cd8e8e78bae7f64be6aa843a6362535452f1">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\jpush-android-2.1.3_dbc8c4d8e7e8b366c3d72e391e209af7731f6787.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.43.3\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\infer-annotations-1.5_3756d06aa12f977b5aa1bb8cebf88cec84307045.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\rxjava-1.1.6_11e5c01617ee667d4a45ba948a656c898b69cbfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\okhttp-urlconnection-3.4.1_8c53f11782c30ceeab64a97cd78f9c7aa80afcf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="13469de5eef4b3c0488c0e4963fef197fc745f8a">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-animated-base-1.0.1_7ea7e71ddc02265a5c87c7a43d6fa7e73ba544ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-drawee-1.0.1_13ae679cfe4fd1f4b4814668f7954f06b3f2a478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\DvaStarter\react-native-update\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cb215e5aed8bec97345114788a5dd837caaeee74">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\DvaStarter-react-native-update-unspecified_1a02c304f62b1e5cb3570a6fc2604c3199603990.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-fbcore-1.0.1_b90feae79936fd64ec3612f565696f7952660869.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.0_4ea2e7c705878601568164ea96e76605dcb17a9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.43.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="28964a93b5eafbe660a5b51e5964d2e66aa45395">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.react-react-native-0.43.3_435d7d4570f33a332ebc0cc9d0b42dd1728699a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="13469de5eef4b3c0488c0e4963fef197fc745f8a">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-animated-base-1.0.1_caefd7d9fb1023f7000572d41ed7bcd8d8d1719f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\DvaStarter\react-native-baidu-map\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="02ce50a40ee74d44a3e431a60123edadc0fd7f8a">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\DvaStarter-react-native-baidu-map-unspecified_a47d2e161bfb3c5c6413f1737b37e75f0f2bf0a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\support-annotations-24.2.0_02813ff0ba0b1689fe98abc00a4420b8284442d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\okhttp-3.4.1_a3a718343956c6e4d917a53a4fdd4a4dc134cda5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-imagepipeline-base-1.0.1_c2697339c337d8f0cf40eef13b507580762e9ce4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\DvaStarter\react-native-image-crop-picker\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a3d8b3818bbac34545175fd18a2ed8f4a9f5519">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\DvaStarter-react-native-image-crop-picker-unspecified_1673ab02fd820092ef75f16c9cd36b724e5da785.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_aa2a91226e5dc9acfbc0d55eb4497e9bd43d403e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\bolts-tasks-1.4.0_c64325f78a24c085b700c554244dc03fa6bc6a89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.0_87a81d67931787b0a180a12812407fe705f6b95a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.43.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="28964a93b5eafbe660a5b51e5964d2e66aa45395">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.react-react-native-0.43.3_953738731ba5c3ef11c57bc9abcaca3d4975eb5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\DvaStarter\react-native-image-resizer\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2792a3e3e62b61cfd680be8f2e043417de90a09d">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\DvaStarter-react-native-image-resizer-unspecified_2a8335886d8100475f9b15ae437e5112ec379496.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.drewnoakes\metadata-extractor\2.9.1\53fdf22be10c9d426ec63431c7342895bc642261\metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\metadata-extractor-2.9.1_c6cca8d053136e2f8e3f4cebcda203ea8ae940bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\DvaStarter\react-native-baidu-map\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="02ce50a40ee74d44a3e431a60123edadc0fd7f8a">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\DvaStarter-react-native-baidu-map-unspecified_732f470fade3a7cf0b609770a5acf51be04bcd4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-fresco-1.0.1_e8becebe7c85011021ab9cbb7e7790de78bc8ce8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-imagepipeline-1.0.1_db31ba2fbf85c4778019e22ea94c036b319a3ead.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.facebook.fresco\animated-gif\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="131115ec18ae3951c1584c543de8baa9ac20012a">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-animated-gif-1.0.1_f0a54f5b93e09c905c1a31ce880f558908fe0348.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\DvaStarter\react-native-baidu-map\unspecified\jars\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fdcc8f3333d680ba5e7fbd0d4907ab72d4d20c3e">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\BaiduLBS_Android_1582cde9e60097234205147af1ecb2441a2c05fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\DvaStarter\react-native-jpush\unspecified\jars\libs\jpush-android-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7c62cd8e8e78bae7f64be6aa843a6362535452f1">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\jpush-android-2.1.3_7fb50cd72c1bf9cb6fb415516fc7942257c48c8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.0_c8c397d0a874b387435f99b9986cf1b3826fc1b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\DvaStarter\react-native-splash-screen\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="42a9c4bbafd1cb478e1a8f540fc3609c83745df8">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\DvaStarter-react-native-splash-screen-unspecified_bfe866333d99ff6f15cbc2a62c3df2e3881e09cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.0_64a16d5e66f9cb945af5e4f3873246a47a84d3f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.adobe.xmp\xmpcore\5.1.2\55615fa2582424e38705487d1d3969af8554f637\xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\xmpcore-5.1.2_a2e4bb2925bf376c8a4a8312f65cd55e1f662b00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.yalantis\ucrop\2.2.0-native\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24497dd7ccdf848dde14335011e715dcc1110275">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.yalantis-ucrop-2.2.0-native_55d0a1b50dc3180ea2b5d6086b03c7ad6ffaf931.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_7c323b2ed1706bd809dfea5b2e82fc06f9b73315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\DvaStarter\react-native-camera\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="66cd78e49857db01469aaa1a28d274c9aa424bf5">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\DvaStarter-react-native-camera-unspecified_75ef16a9bdf6a9940600a98e1764233167d63281.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\DvaStarter\react-native-baidu-map\unspecified\jars\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fdcc8f3333d680ba5e7fbd0d4907ab72d4d20c3e">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\BaiduLBS_Android_eaf3d536843ffc33ad000ce54b4765a9d68d87ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-fbcore-1.0.1_9f7b0aaded0115e078ec862273365df92ab9db75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\okio-1.9.0_db0545b090bbd931e1cf6e43202e038727277a7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\DvaStarter\react-native-image-crop-picker\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a3d8b3818bbac34545175fd18a2ed8f4a9f5519">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\DvaStarter-react-native-image-crop-picker-unspecified_962de499761193751eff785f30a4cca63715372d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.4.0_2aec60a7c66862f00837c9db3b77629be886a92a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-imagepipeline-1.0.1_b79eed2d7095f11806646b347c3d0f1e58608556.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-imagepipeline-base-1.0.1_0eacbf26447527553e10a2be86da39a84adc5065.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.0_b328ef8a72486bf9d28dfd20ae40438b5efa1594.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\core-3.2.1_3f96f72d8bc40481fc852122e0314b3485c288eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_3d872c7fe617a8a83cce6c994f6ed01a7597496a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_65c69323964064a7ac815b84c7d521af66077ea9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_80b2a417fbe533743c880d43412c942a3df8d4d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\DvaStarter\react-native-camera\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="66cd78e49857db01469aaa1a28d274c9aa424bf5">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\DvaStarter-react-native-camera-unspecified_a34d52dcd6f26daac01a9b12541d4a66d7113871.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.0_1eb600273c24bc7bf2e7efd597040d620a022c76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.0_0bc3c4642ed8fb1d132aa15d3b2360882dc1dc94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-fresco-1.0.1_7ae197820f7c5b7f31213eb4c853bd5d95bef2ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="E:\loadings\android\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.0_7d5de0b415d0d01fda64bd3117328186321f28b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_59fc9b755daf0a7a5b97e5f8087ae15039a9cbdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\staticlayout-proxy-1.0_0283216b9bf7dad1d31c87f4be8f1ed4e4500cc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.yalantis\ucrop\2.2.0-native\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24497dd7ccdf848dde14335011e715dcc1110275">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.yalantis-ucrop-2.2.0-native_b5b85ccc0239c8a4ed890cae55e177a4a8e003a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_44bec4f987390798ea60655f5c91d267fca9b9b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_75c4284226470acc0d224386ffe177cffc180b1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.soloader-soloader-0.1.0_755fd242aff2ff50ea80cbbe04d519fd67519769.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\PT_APP\loadings\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\PT_APP\loadings\android\app\build\intermediates\pre-dexed\release\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_1efd499ae90782b3e049f5a790884879651f045d.jar" />
+    </item>
+
+</items>

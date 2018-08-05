@@ -1,0 +1,4 @@
+Scanning 733 folders for symlinks in C:\subei-app\subei_logistics\react-native-dva-starter\node_modules (28ms)
+JS server already running.
+Building and installing the app on the device (cd android && gradlew.bat installDebug)...
+终止批处理操作吗(Y/N)? 
